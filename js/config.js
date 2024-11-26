@@ -1,9 +1,9 @@
 window._config = {
     cognito: {
-        userPoolId: 'eu-north-1_EFPYt0V1I', // e.g. us-east-2_uXboG5pAb
-        userPoolClientId: '15b11jv500utq6bhjk7lfq2f7u', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
+        userPoolId: 'eu-north-1_U77zwND0x', // e.g. us-east-2_uXboG5pAb
+        userPoolClientId: '1oghe34ooacuqd6gj6kan5mhvl', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
         region: 'eu-north-1' // e.g. us-east-2
-        SECRET_HASH = '1t5e6lv0fq78lr31726vsp5e22pi36e1lueo32hkie24n6olvvl0';
+        SECRET_HASH = 'ateb13rkc6gigkcc9og3jhkfbj8u2c6o9qdpgc2kqffggem3ff3';
         
     },
     api: {
